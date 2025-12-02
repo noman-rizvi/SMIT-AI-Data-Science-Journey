@@ -37,8 +37,8 @@ To explore any project locally:
 
 **Noman Rizvi**
 
--   **GitHub**: [Your Profile Link](https://github.com/)
--   **LinkedIn**: [Your Profile Link](https://linkedin.com/)
+-   **GitHub**: [Your Profile Link](https://github.com/noman-rizvi)
+-   **LinkedIn**: [Your Profile Link](https://linkedin.com/noman-rizvi)
 
 ---
 *“Data is the new oil.” — Clive Humby*
